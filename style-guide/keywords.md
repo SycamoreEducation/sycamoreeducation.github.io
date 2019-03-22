@@ -8,19 +8,21 @@ nav_order: 4
 # Keywords
 
 - Should always appear in lowercase
- - Incorrect: 
+Incorrect: 
     ```php 
         $bar = TRUE;
     ```
- - Correct: 
+
+Correct: 
     ```php 
         $bar = true;
     ```
- - Incorrect: 
+Incorrect: 
     ```php 
         Global $g_user;
     ```
- - Correct: 
+
+Correct: 
     ```php 
         global $g_user;
     ```
