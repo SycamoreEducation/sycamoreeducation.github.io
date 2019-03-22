@@ -19,6 +19,8 @@ Correct:
     $bar = true;
 ```
 
+---
+
 Incorrect: 
 ```php 
     Global $variable;
