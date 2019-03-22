@@ -8,4 +8,4 @@ permalink: /
 
 # Welcome
 
-Welcome to the Sycamore Education Devloper Handbook.
+Welcome to the Sycamore Education Developer Handbook.
