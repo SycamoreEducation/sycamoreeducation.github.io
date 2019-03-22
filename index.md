@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Home
+title: Welcome
 nav_order: 1
-description: "This is a test for documentation layout"
+description: "Sycamore Education Developer Handbook"
 permalink: /
 ---
 
-# Hello World!
+# Welcome
 
-You know the deal. You create the obligatory "hello world", whenever you try something new.
+Welcome to the Sycamore Education Devloper Handbook.
