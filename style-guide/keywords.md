@@ -10,21 +10,21 @@ nav_order: 4
 - Should always appear in lowercase
 
 Incorrect: 
-    ```php 
-        $bar = TRUE;
-    ```
+```php 
+    $bar = TRUE;
+```
 
 Correct: 
-    ```php 
-        $bar = true;
-    ```
+```php 
+    $bar = true;
+```
 
 Incorrect: 
-    ```php 
-        Global $variable;
-    ```
+```php 
+    Global $variable;
+```
 
 Correct: 
-    ```php 
-        global $variable;
-    ```
+```php 
+    global $variable;
+```
