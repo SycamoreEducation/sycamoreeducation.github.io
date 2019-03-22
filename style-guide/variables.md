@@ -19,6 +19,7 @@ Correct:
     $route = 345;
 ```
 
+
 - Should be reasonably named to indicate their purpose and content, using a minimum of three characters
 
 Incorrect: 
@@ -29,6 +30,7 @@ Correct:
 ```php 
 $avg = ($num / $dem) * 100;
 ```
+
 
 - Single letter variables should **only** be used in `for` loops
 
