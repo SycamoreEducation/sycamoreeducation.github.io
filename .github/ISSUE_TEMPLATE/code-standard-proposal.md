@@ -2,7 +2,7 @@
 name: Code Standard Proposal
 about: A template for discussing issues relating to code standards
 title: ''
-labels: Code Standards, Dev Review
+labels: Code Standards
 assignees: ''
 
 ---
